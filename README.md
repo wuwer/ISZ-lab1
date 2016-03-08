@@ -50,6 +50,7 @@ Obrazki z kolejnymi iteracjami rysowania Krzywej Kocha znajdują się w folderze
 #### D. 'Ręczne' rysowanie fraktali
 
 Pewna klasa fraktali może zostać wygenerowana za pomocą tzw. Gry w Chaos. Gra wygląda następująco:
+
 	1. Definiujemy n prekształceń przyjmujących jako argumenty współrzędne punktu i zwracających współrzędne punktu
 	2. Losujemy punkt początkowy
 	3. Wybieramy kolejne punkty poprzez przetworzenie ostatniego punktu przez losowo wybrane ze zdefiniowanych przekształceń
@@ -71,6 +72,7 @@ Jaki jest wymiar pudełkowy Trójkąta Sierpińskiego?
 
 
 Źródła:
+
 [1]http://homepages.math.uic.edu/~culler/chaos/
 
 [2]http://zasoby1.open.agh.edu.pl/dydaktyka/matematyka/c_fraktale_i_chaos/fraktale.php?rozdzial=8
