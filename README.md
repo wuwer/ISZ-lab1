@@ -1,6 +1,6 @@
 # Tutorial
 
-A. Instalacja narzędzi
+#### A. Instalacja narzędzi
 
 Narzędzia wykorzystywane w tej części laboratorium są dość stare (czasy pythona 2.4). Do uruchomienia ich potrzebna była modyfikacja kodu źródłowego. Projekt został opakowany w virtualenv, posprzątanie go powinno sprowadzać się do usunięcia folderu, w którym nastąpi instalacja.
 
@@ -17,7 +17,7 @@ Instrukcja:
 
 Jeśli wszystko wykonało się poprawnie, wykonanie pliku test.py powinno spowodować wyświetlenie okna z zbiorem Mandelbrota.
 
-B. Rysowanie fraktali
+#### B. Rysowanie fraktali
 
 Biblioteka chaos zawiera narzędzia do rysowania fraktali (Krzywa Kocha, Krzywa Hilberta).
 Aby narysować Krzywą Kocha należy:
@@ -32,7 +32,7 @@ Analogiczna instrukcja służąca do narysowania Krzywej Hilberta:
 
 Wykonanie ćwiczeń może być wygodniejsze, jeśli zmodyfikuje się odpowiednio plik test.py
 
-C. Liczenie wymiaru pudełkowego (box dimension) fraktala
+#### C. Liczenie wymiaru pudełkowego (box dimension) fraktala
 
 Wymiary fraktala definiuje się na kilka różnych sposobów. Można stwierdzić, że są miarami skomplikowania fraktala. Zajmiemy się liczeniem wymiaru pudełkowego.
 
@@ -47,7 +47,7 @@ Instrukcje:
 
 Obrazki z kolejnymi iteracjami rysowania Krzywej Kocha znajdują się w folderze ./koch
 
-D. 'Ręczne' rysowanie fraktali
+#### D. 'Ręczne' rysowanie fraktali
 
 Pewna klasa fraktali może zostać wygenerowana za pomocą tzw. Gry w Chaos. Gra wygląda następująco:
 	1. Definiujemy n prekształceń przyjmujących jako argumenty współrzędne punktu i zwracających współrzędne punktu
@@ -72,6 +72,7 @@ Jaki jest wymiar pudełkowy Trójkąta Sierpińskiego?
 
 Źródła:
 [1]http://homepages.math.uic.edu/~culler/chaos/
+
 [2]http://zasoby1.open.agh.edu.pl/dydaktyka/matematyka/c_fraktale_i_chaos/fraktale.php?rozdzial=8
+
 [3]http://blackhole.ovh.org/fraktale.php
-wikipedia
