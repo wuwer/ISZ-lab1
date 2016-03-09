@@ -5,6 +5,7 @@ A. Instalacja narzędzi
 Narzędzia wykorzystywane w tej części laboratorium są dość stare (czasy pythona 2.4). Do uruchomienia ich potrzebna była modyfikacja kodu źródłowego. Projekt został opakowany w virtualenv, posprzątanie go powinno sprowadzać się do usunięcia folderu, w którym nastąpi instalacja.
 
 Wymagania: python 2, virtualenv
+
 Instrukcja:
 
 	0. apt-get python2 / yum install python2/ pacman -S python2/ ...
@@ -33,8 +34,11 @@ Wykonanie ćwiczeń może być wygodniejsze, jeśli zmodyfikuje się odpowiednio
 
 C. Liczenie wymiaru pudełkowego (box dimension) fraktala
 
-Wymiary fraktala..
-Wymiar pudełkowy...
+Wymiary fraktala definiuje się na kilka różnych sposobów. Można stwierdzić, że są miarami skomplikowania fraktala. Zajmiemy się liczeniem wymiaru pudełkowego.
+
+Opis:
+http://zasoby1.open.agh.edu.pl/dydaktyka/matematyka/c_fraktale_i_chaos/fraktale.php?rozdzial=8#wymiarpudelkowy
+
 
 Instrukcje:
 
@@ -67,7 +71,7 @@ Jaki jest wymiar pudełkowy Trójkąta Sierpińskiego?
 
 
 Źródła:
-http://homepages.math.uic.edu/~culler/chaos/
-http://zasoby1.open.agh.edu.pl/dydaktyka/matematyka/c_fraktale_i_chaos/fraktale.php?rozdzial=8
-http://blackhole.ovh.org/fraktale.php
+[1]http://homepages.math.uic.edu/~culler/chaos/
+[2]http://zasoby1.open.agh.edu.pl/dydaktyka/matematyka/c_fraktale_i_chaos/fraktale.php?rozdzial=8
+[3]http://blackhole.ovh.org/fraktale.php
 wikipedia
